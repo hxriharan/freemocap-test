@@ -1,7 +1,6 @@
 # This markdown file is for the Blender Visualizer Add-on (Joint Angles Visualization)
-
-## This file is for documentation purposes only where I intend to add information on the Blender Visualization add on FreeMoCap which is still under development 
-## The Visualization tool is for calculating and presenting the joint angles, I will be attaching links and information gathered from the FreeMoCap's active Discord channel
+- This file is for documentation purposes only where I intend to add information on the Blender Visualization add on FreeMoCap which is still under development 
+- The Visualization tool is for calculating and presenting the joint angles, I will be attaching links and information gathered from the FreeMoCap's active Discord channel
 
 
 # FreeMoCap 
